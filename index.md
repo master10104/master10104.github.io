@@ -12,11 +12,11 @@ I have a particular interest in specific implementations of programming which in
 
 # Portfolio
 
-To view my Java Portfolio, [click here](https://master10104.github.io/javaPortfolio.md). This portfolio contains stuff like Quantum Computation Models, Music Theory Applications, as well a some varying projects.
+To view my Java Portfolio, [click here](https://master10104.github.io/javaPortfolio.html). This portfolio contains stuff like Quantum Computation Models, Music Theory Applications, as well a some varying projects.
 
-To view my Javascript Portffolio, [click here](https://master10104.github.io/jsPortfolio.md). This portfolio contains stuff like Discord Bots with Roblox Integration.
+To view my Javascript Portffolio, [click here](https://master10104.github.io/jsPortfolio.html). This portfolio contains stuff like Discord Bots with Roblox Integration.
 
-To view my Lua Portfolio, [click here](https://master10104.github.io/luaPortfolio.md). This portfolio contains stuff like (come up with something cool to do in Lua?)
+To view my Lua Portfolio, [click here](https://master10104.github.io/luaPortfolio.html). This portfolio contains stuff like (come up with something cool to do in Lua?)
 
 # Contact Info
 
